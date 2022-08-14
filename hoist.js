@@ -101,8 +101,8 @@ function makeDojo(name, students){
 }
 
 
-//true
-//closed for now 
+//{ name: 'Chicago', students: 65, hiring: true }
+//Error
 
 
 
