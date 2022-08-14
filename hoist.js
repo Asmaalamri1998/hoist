@@ -102,7 +102,7 @@ function makeDojo(name, students){
 
 
 //{ name: 'Chicago', students: 65, hiring: true }
-//Error
+//Error: dojo is const variable
 
 
 
